@@ -38,7 +38,7 @@ return  [
     'select_timezone' => 'TimeZone',
   ],
   'msg' => [
-    'invalid_token'     => 'We found some validation problems, please submit your form again.',
+    'invalid_token'     => 'We found some validation problems, please do not submit your form again and contact your provider.',
     'general_exception' => 'Sorry, there was a problem. Don\'t worry, we are working on it ;)',
     'invalid_url'       => 'The link you try to access does not exist, try browsing the directory.',
     'slug_is_available' => 'The :baseurl name is available. Register it now.',
